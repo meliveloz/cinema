@@ -1,0 +1,160 @@
+.container2{
+	max-width: 1366px;
+}
+
+.logo{
+	display: inline-block;
+	margin-right: 1vh;
+	height: 8vh;
+	margin-left: 15vh;
+}
+.maintitle{
+	display: inline-block;
+	font-size: 1em;
+    margin-left: 15vh;
+    position: relative;
+    bottom: 3vh; 
+    font-family: 'Montserrat', sans-serif;
+    color: #CDCDCD;
+}
+#buscador{
+	display: inline-block;
+    padding: 14px;
+    height: 6vh;
+    padding-left: 55px;
+    width: 300px;
+    border: 1px solid #7A7A7A;
+    font-size: 13px;
+    color: #8F8F8F;
+    background-image: url(http://i47.tinypic.com/r02vbq.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    outline: 0;
+    border-radius: 1.5em;
+    margin-left: 30vh;
+}
+.principal{
+	background-image: url(../img/banner.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 90vh;
+	font-family: 'Montserrat', sans-serif;
+	color: #d2d2d2;
+}
+.bighero{
+	margin-left: 60%;
+	width: 35%;
+}
+hr{
+	width: 80%;
+}
+.bigtitle{
+	font-size: 3.3em;
+}
+.greenbutton{
+	color: #338e46;
+	padding:0.3em;
+	border:2px solid #338e46;
+	display: inline-block;
+	border-radius: 0.5em;
+	margin-top: 1em;
+}
+.tableleft{
+	padding-left: 15vh;
+}
+.tableparagraph{
+	padding-top: 2vh;
+	width: 95%;
+}
+
+.button1{
+	display: block;
+	color: white;
+	background: #dfb636;
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+	width: 40%;
+	padding: 0.6em;
+	border-radius: 0.5em;
+	font-weight: bolder;
+	cursor: pointer;
+
+}
+.fa{
+	padding-right: 0.3em;
+}
+.button2{
+	background: #F19300;
+	display: block;
+	color: white;
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+	width: 40%;
+	padding: 0.6em;
+	border-radius: 0.5em;
+	font-weight: bolder;
+	cursor: pointer;
+}
+.moviephoto{
+	width: 80%;
+	margin-top: 4vh;
+}
+.galery{
+	background: #dfb636;
+}
+.galerycolum{
+	width: 14%;
+    padding: 0;
+
+}
+.galerycolum2{
+	margin-left: 18vh;
+}
+.ceropadding{
+	padding: 0;
+}
+.book{
+	font-family: 'Montserrat', sans-serif;
+}
+.greybook{
+	color: #C5C5C5;
+	padding-top: 2vh;
+}
+.discount{
+	color:#FF6363;
+}
+.bookcolum{
+	margin-left: 20vh;
+    width: 30%;
+    margin-top: 4vh;
+}
+.bookcolum2{
+	margin-top: 6vh;
+	margin-left: 20vh;
+	width: 40%;
+}
+.photolast{
+	width: 60%;
+}
+.lastcolumn{
+	margin-top: 12vh;
+	width: 40vh;
+	padding: 0;
+}
+.lastleft{
+	margin-left:15%;
+}
+.footer{
+	font-family: 'Montserrat', sans-serif;
+	background: #EAEAEA;
+	height: 40vh;
+	color: #828282;
+	font-size: 1em;
+
+}
+.created{
+	padding-top: 20vh;
+}
+.disclaimer{
+	padding-top: 5vh;
+}
